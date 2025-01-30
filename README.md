@@ -11,7 +11,7 @@ The fate of the kingdom lies **in your hands!**
 - **Room Exploration** - Navigate through rooms in the kingdom including: the Dungeon, Royal Chamber and Courtyard.
 - **Character Interaction** - Speak with the different characters including the kind King.
 - **Use Items** - Discover items to help you save the Princess.
-- **Winning Condition** Defeat the Villain Queen using the **Crystal of Truth!**
+- **Winning Condition** - Defeat the Villain Queen using the **Crystal of Truth!**
 
 ## 🧩 Project Structure
 
