@@ -2,7 +2,7 @@
 
 ## 🕵️‍♀️ About
 
-TBAG is a **text-based adventure game** where you can explore a kingdom, and interact with different characters. As the hero, your quest is to navigate through different rooms, and use the Crystal of Truth to defeat the **Villain Queen**.
+TBAG is a **text-based adventure game** where you can explore a kingdom, and interact with different characters. As the hero, your quest is to navigate through different rooms and use the Crystal of Truth to defeat the **Villain Queen**.
 
 The fate of the kingdom lies **in your hands!**
 
